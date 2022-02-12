@@ -35,4 +35,123 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+
+.first{
+  height: 600px;
+  width: 100%;
+  border: 1px solid;
+  background-color: aqua;
+}
+.address{
+  height: 50px;
+  width: 400px;
+  margin-top: 40px;
+  border: 1px solid;
+  margin-left: 470px;
+  background-color: white;
+}
+.bal{
+  height: 50px;
+  width: 300px;
+  border: 1px solid;
+}
+.balance{
+  height: 50px;
+  width: 400px;
+  border: 1px solid;
+  margin-left: 470px;
+
+  background-color: aliceblue;
+}
+.second{
+  height: 300px;
+  border: 1px solid;
+  background-color: grey;
+  width: 100%;
+}
+.s1{
+  height: 130px;
+  width: 250px;
+  margin-left: 100px;
+  border: 1px solid;
+  background-color: antiquewhite;
+  float: left;
+  margin-top: 70px;
+
+}
+.s2{
+  height: 130px;
+  width: 250px;
+  border: 1px solid;
+  background-color: antiquewhite;
+  float: left;
+  margin-left: 50px;
+  margin-top: 70px;
+
+}
+.s3{
+  height: 130px;
+  margin-left: 50px;
+
+  width: 250px;
+  border: 1px solid;
+  background-color: antiquewhite;
+  float: left;
+  margin-top: 70px;
+
+}
+.s4{
+  height: 130px;
+  margin-left: 50px;
+
+  width: 250px;
+  border: 1px solid;
+  background-color: antiquewhite;
+  float: left;
+  margin-top: 70px;
+}
+.btnDetails{
+margin-top: 50px;
+border: 1px solid;
+}
+.token{
+  height: 70px;
+  border: 1px solid;
+  width: 100%;
+  
+}
+.symbol{
+  height: 70px;
+  border: 1px solid;
+  width: 100%;
+}
+.supply{
+  height: 70px;
+  border: 1px solid;
+  width: 100%;
+}
+.decimel{
+  height: 70px;
+  border: 1px solid;
+  width: 100%;
+}
+
+
+
+
+.transfer{
+  height: 200px;
+  width: 100%;
+  border: 1px solid;
+  background-color: green;
+}
+
+
+.mint{
+  height: 200px;
+  width: 100%;
+  border: 1px solid;
+  background-color: gray;
 }
